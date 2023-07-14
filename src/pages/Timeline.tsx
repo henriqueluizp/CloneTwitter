@@ -21,7 +21,7 @@ export function TimeLine() {
       <form onSubmit={createNewTweet} className="new-tweet-form">
         <label htmlFor="tweet">
           <img
-            src="https://avatars.githubusercontent.com/u/122624168?v=4"
+            src="https://avatars.githubusercontent.com/u/6311119?v=4"
             alt="img-perfil"
           ></img>
           <textarea

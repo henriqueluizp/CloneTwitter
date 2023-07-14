@@ -9,14 +9,14 @@ export function Tweet(props: TweetProps) {
   return (
     <Link to="/tweet" className="tweet">
       <img
-        src="https://avatars.githubusercontent.com/u/122624168?v=4"
+        src="https://avatars.githubusercontent.com/u/6311119?v=4"
         alt="foto perfil"
         className=""
       />
       <div className="tweet-content">
         <div className="tweet-content-header">
-          <strong>Henrique</strong>
-          <span>@Henrique</span>
+          <strong>User</strong>
+          <span>@User</span>
         </div>
         <p>{props.content}</p>
         <div className="tweet-content-footer">
